@@ -1,0 +1,14 @@
+* creating lib/blog_web/controllers/post_controller.ex
+* creating lib/blog_web/templates/post/edit.html.eex
+* creating lib/blog_web/templates/post/form.html.eex
+* creating lib/blog_web/templates/post/index.html.eex
+* creating lib/blog_web/templates/post/new.html.eex
+* creating lib/blog_web/templates/post/show.html.eex
+* creating lib/blog_web/views/post_view.ex
+* creating test/blog_web/controllers/post_controller_test.exs
+* creating lib/blog/my_blog/post.ex
+* creating priv/repo/migrations/20200430111254_create_posts.exs
+* creating lib/blog/my_blog.ex
+* injecting lib/blog/my_blog.ex
+* creating test/blog/my_blog_test.exs
+* injecting test/blog/my_blog_test.exs
