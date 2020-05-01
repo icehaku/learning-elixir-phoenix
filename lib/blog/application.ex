@@ -23,6 +23,9 @@ defmodule Blog.Application do
     # for other strategies and supported options
     opts = [strategy: :one_for_one, name: Blog.Supervisor]
     Supervisor.start_link(children, opts)
+
+    # Run migrations on start
+    # Ecto.Migrator.run(Blog.Repo, "priv/repo/migrations", :up, all: true)
   end
 
   # Tell Phoenix to update the endpoint configuration
