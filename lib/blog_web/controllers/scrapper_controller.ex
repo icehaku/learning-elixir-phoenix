@@ -4,7 +4,7 @@ defmodule BlogWeb.ScrapperController do
   require IEx
 
   def psplus(conn, _params) do
-    url = "https://store.playstation.com/en-us/grid/STORE-MSF77008-PSPLUSFREEGAMES/1"
+    url = "https://store.playstation.com/pt-br/grid/STORE-MSF77008-PSPLUSFREEGAMES/1"
 
     case HTTPoison.get(url) do
       {:ok, %HTTPoison.Response{status_code: 200, body: body}} ->
