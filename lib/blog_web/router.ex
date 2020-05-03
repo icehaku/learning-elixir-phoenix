@@ -18,7 +18,7 @@ defmodule BlogWeb.Router do
 
     get "/", PageController, :index
 
-    get "/scrapper", ScrapperController, :index
+    get "/psplus", ScrapperController, :psplus
 
     resources "/posts", PostController
   end

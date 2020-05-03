@@ -7,3 +7,8 @@ https://github.com/HashNuke/heroku-buildpack-elixir/
 https://github.com/gjaldon/heroku-buildpack-phoenix-static.git
 
 https://hexdocs.pm/phoenix/heroku.html#making-our-project-ready-for-heroku
+
+https://medium.com/@Julien_Corb/web-scraping-with-elixir-using-httpoison-and-floki-26ebaa03b076
+https://github.com/edgurgel/httpoison
+https://github.com/philss/floki
+https://hexdocs.pm/phoenix/views.html
