@@ -1,18 +1,5 @@
-# Blog
+Just a bunch of webscrap I use 4fun.
 
-To start your Phoenix server:
+endpoints:
 
-  * Setup the project with `mix setup`
-  * Start Phoenix endpoint with `mix phx.server`
-
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
-
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
-
-## Learn more
-
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+/psplus -> list of free to get games on [PlaystationStore](https://store.playstation.com/)(games that are not free to play, but are free to get forever).
